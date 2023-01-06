@@ -16,3 +16,5 @@ The primary objective of the project is to evaluate whether company descriptions
 ## Installation Requirements
 Please execute the following commands to install packages necessary to run **LinkedInCompanyClassification.ipynb**: 
 ```pip install --upgrade pip && pip install -r requirements.txt```
+
+## Full Analysis ([Link](https://github.com/heath3rq/NLP_Company_Industry_Classification/blob/main/IDS%20703%20Final%20Project%20Report.pdf))
