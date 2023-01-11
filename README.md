@@ -10,7 +10,7 @@ The primary objective of the project is to evaluate whether company descriptions
 ## Project Files
 * [**linkedin_company_data.csv**](linkedin_company_data.csv): dataset used.
 * [**LinkedInCompanyClassification.ipynb**](LinkedInCompanyClassification_synth.ipynb): python code for data cleaning, preprocessing, modeling, and text synthesis.  
-* [**requirements.txt**]: list of all dependencies required to run **LinkedInCompanyClassification.ipynb**.  
+* [**requirements.txt**](requirements.txt): list of all dependencies required to run **LinkedInCompanyClassification.ipynb**.  
 * [**IDS 703 Final Report.pdf**](IDS 703 Final Project Report.pdf): full project analysis, including details of applied language models. 
 
 ## Installation Requirements
