@@ -8,13 +8,11 @@ The primary objective of the project is to evaluate whether company descriptions
 ![output](https://user-images.githubusercontent.com/105904149/210687903-040ad67a-8c92-4df7-99fd-106d90ad151d.png)
 
 ## Project Files
-* **linkedin_company_data.csv**: dataset used.
-* **LinkedInCompanyClassification.ipynb**: python code for data cleaning, preprocessing, modeling, and text synthesis.  
-* **requirements.txt**: list of all dependencies required to run **LinkedInCompanyClassification.ipynb**.  
-* **IDS 703 Final Report.pdf**: project write-up, including details of applied language models. 
+* [**linkedin_company_data.csv**](linkedin_company_data.csv): dataset used.
+* [**LinkedInCompanyClassification.ipynb**](LinkedInCompanyClassification_synth.ipynb): python code for data cleaning, preprocessing, modeling, and text synthesis.  
+* [**requirements.txt**]: list of all dependencies required to run **LinkedInCompanyClassification.ipynb**.  
+* [**IDS 703 Final Report.pdf**](IDS 703 Final Project Report.pdf): full project analysis, including details of applied language models. 
 
 ## Installation Requirements
 Please execute the following commands to install packages necessary to run **LinkedInCompanyClassification.ipynb**: 
 ```pip install --upgrade pip && pip install -r requirements.txt```
-
-## Full Analysis ([Link](https://github.com/heath3rq/NLP_Company_Industry_Classification/blob/main/IDS%20703%20Final%20Project%20Report.pdf))
